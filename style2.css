@@ -1,0 +1,164 @@
+.header{
+background-color: #ff7101 ;
+height: 60px;
+}
+.float{
+    float: left;
+}
+.img{
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.button{
+    margin-left: 40px ;
+    
+    background-color: #ff7101 ;
+    color: white ;
+    border-radius: opx solid #ff7101   ;
+    text-decoration: none ;
+}
+.menu{
+    margin-top: 20px;
+}
+ .button:hover{
+color: white;
+} 
+.right{
+    float: right;
+    margin-right: 50px;
+}
+.connector{
+margin-right: 20px;
+ margin-top: 20px;
+}
+
+.home12{
+    text-decoration: underline;
+}
+
+.img1{
+    height: 350px;
+    width: 1200px;
+    margin-left: 80px;
+    margin-top: 5px;
+} 
+
+
+
+
+
+
+.middle{
+    height: 475px;
+    background-color: #e6e6e6;
+    margin-top: 50px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+.gellary{
+    background-color: white;
+    width: 250px;
+    height: 300px;
+   float: left;
+}
+/* .box{
+    height: 40px;
+    width: 100px;
+    background-color: chocolate;
+    margin-left: 100px;
+    color: blue;
+    border: 2px solid green;
+    padding: 5px;
+} */
+.box2{
+    margin-left: 35px;
+    float: left;
+}
+
+#box1{
+height: 35px;
+margin-left: 75px;
+width: 100px;
+background-color: #27bec5;
+float: left;
+margin-top: -12;
+font-size: 12px;
+color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif;
+padding: 8px;
+}
+
+#box3{
+    height: 35px;
+width: 100px;
+margin-left: 190px;
+background-color: #27bec5;
+float: left;
+margin-top: -12;
+padding: 8px;
+color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+#box4{
+    height: 35px;
+width: 100px;
+margin-left: 190px;
+background-color: #27bec5;
+float: left;
+margin-top: -12;
+font-size: 12px;
+color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif;
+padding: 8px;
+}
+#box5{
+    height: 35px;
+width: 100px;
+margin-left: 180px;
+background-color: #27bec5;
+float: left;
+margin-top: -12;
+font-size: 12px;
+color: whitesmoke;
+font-family: Arial, Helvetica, sans-serif;
+padding: 8px;
+}
+
+.pic{
+    margin-top: 40px;
+    margin-left:75px;
+}
+.p{
+    font-size: 12px;
+    text-align: justify;
+    margin-top: 70px;
+}
+
+.footer{
+    height: 80px;
+    background-color: #ff7101;
+    margin-top: 30px;
+   position: relative;
+   
+}
+
+.icons2{
+
+    margin-top: 20px;
+    margin-left: 130px;
+    
+}
+
+.footer2{
+    margin-top: -14px;
+    margin-right: 20px;
+
+}
+
+.last{
+    color: whitesmoke;
+    margin-right: 20px;
+}

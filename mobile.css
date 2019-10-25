@@ -1,0 +1,19 @@
+@media screen and (min-width:400px)
+{
+    .headerm{
+        background-color: #ff7101;
+        height: 60px;
+        }
+        .menum{
+            display: none;
+        }
+
+        .rightm{
+            display: none;
+        }
+        .imgm{
+            margin-left: 150px;
+        }
+
+
+}
